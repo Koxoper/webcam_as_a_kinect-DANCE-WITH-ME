@@ -1,0 +1,4 @@
+mediapipe==0.10.21
+opencv-python==4.11.0.86
+python-vlc==3.0.21203
+PySide6==6.9.0
